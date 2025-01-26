@@ -1,4 +1,4 @@
-# // Autor: Pablo García de los Reyes
+# // Autor: 
 # // Fecha última modificación: 30/04/2024
 
 sizeD = 8
