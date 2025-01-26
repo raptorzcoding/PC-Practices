@@ -1,5 +1,5 @@
 # PR1. PRINCIPIO DE COMPUTADORES.
-# Autor: Pablo García de los Reyes
+# Autor: 
 # Fecha ultima modificacion: 28/02/2024
 # Tabla de valores (principalmente los registros salvados esenciales para la elaboración del programa)
 # $f20 = error_maximo
