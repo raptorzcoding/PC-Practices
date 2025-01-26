@@ -1,6 +1,6 @@
 #// Solución PR3 curso 23-24
 #// Manejo de matrices con funciones
-# Pablo García de los Reyes
+# 
 # 14/04/2024
 #
 #typedef struct {
