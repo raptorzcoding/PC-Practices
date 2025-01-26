@@ -1,4 +1,4 @@
-# Autor: Pablo Garcia de los Reyes
+# Autor: 
 # Fecha: 05/02/2024
 # PR2
 # /*
